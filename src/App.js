@@ -58,7 +58,7 @@ const App =()=> {
       </header>
       <div className="gameArea">
         <div className="instructions">
-          <p>Click on a school to make your selection. Make sure to only click on each school once. Try to reach the perfect score of 30!</p>
+          <p className="instructionsText">Click on a school to make your selection. Click each school only once. Try to reach the perfect score of 30!</p>
         </div>
         <CardArea cardClicked={ cardClicked } cards ={ cards }/>
         
