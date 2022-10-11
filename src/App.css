@@ -1,0 +1,69 @@
+@font-face {
+  font-family: college;
+  src: url('./files/College\ Block.otf');
+}
+
+.App {
+  background-image: url('./files/Bryant-Denny.jpeg');
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size:  100%;
+  background-attachment: fixed;
+  font-family: college;
+}
+
+.App-header {
+  height: 150px;
+  background-color: rgb(42, 167, 1);
+  display: grid;
+  grid-template-columns: 2fr 5fr 2fr;
+  text-align: center;
+  border-bottom: 4px solid rgb(6, 0, 0);
+  position: sticky;
+  top: 0%;
+}
+.headLogo {
+  height: 100px;
+  padding: 25px;
+}
+
+.title {
+  align-self: center;
+  
+}
+
+.scoreboardCont {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  background-color: white;
+  border: 2px solid black;
+  border-radius: 8px;
+  margin: 25px;
+}
+
+.cardArea {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  row-gap: 10px;
+  padding: 10px;
+}
+
+.card {
+  display: grid;
+  grid-template-rows: 9fr 1fr;
+  height: 200px;
+  width: 150px;
+  background-color: white;
+  justify-self: center;
+  text-align: center;
+  border: 2px solid black;
+  border-radius: 8px;
+  padding: 10px;
+}
+
+.schoolLogo {
+  max-height: 150px;
+  max-width: 150px;
+  align-self: center;
+  justify-self: center;
+}
