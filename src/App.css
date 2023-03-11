@@ -114,6 +114,11 @@
 
 @media only screen and (max-width: 600px) {
 
+  .App{
+    background-color: black;
+    background-image: none;
+  }
+
   .App-header {
     height: 15vh;
     grid-template-columns: 1fr;
@@ -150,6 +155,7 @@
   }
   .cardArea {
     column-gap: 1vw;
+    grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
   }
 
 }
