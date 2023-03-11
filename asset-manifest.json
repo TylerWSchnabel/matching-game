@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/matching-game/static/css/main.700e0dba.css",
+    "main.css": "/matching-game/static/css/main.4ed1c82b.css",
     "main.js": "/matching-game/static/js/main.817e0167.js",
     "static/js/787.f0488d0e.chunk.js": "/matching-game/static/js/787.f0488d0e.chunk.js",
     "static/media/Bryant-Denny.jpeg": "/matching-game/static/media/Bryant-Denny.e15934901a9959fc50b7.jpeg",
     "static/media/College Block.otf": "/matching-game/static/media/College Block.41577c228a179c21bf7b.otf",
     "static/media/NCAA-Logo.png": "/matching-game/static/media/NCAA-Logo.94aa7def09602e813b43.png",
     "index.html": "/matching-game/index.html",
-    "main.700e0dba.css.map": "/matching-game/static/css/main.700e0dba.css.map",
+    "main.4ed1c82b.css.map": "/matching-game/static/css/main.4ed1c82b.css.map",
     "main.817e0167.js.map": "/matching-game/static/js/main.817e0167.js.map",
     "787.f0488d0e.chunk.js.map": "/matching-game/static/js/787.f0488d0e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.700e0dba.css",
+    "static/css/main.4ed1c82b.css",
     "static/js/main.817e0167.js"
   ]
 }
