@@ -31,7 +31,7 @@ export const schools = [
     },
     {
         id: 7,
-        img: 'https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Kansas_Jayhawks_logo.svg/1200px-Kansas_Jayhawks_logo.svg.png',
+        img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Kansas_Jayhawks_1946_logo.svg/1200px-Kansas_Jayhawks_1946_logo.svg.png',
         name: 'Kansas',
     },
     {
